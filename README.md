@@ -41,3 +41,9 @@ The images are low-resolution (60px X 90px) for a better performance and less sp
 The dataset is from Kaggle and it's avaiable here: [Kaggle](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small/data)
 
 The number of images in this repository is smaller than the original version, so errors with shape or color accuracy can probably occur.
+
+## Visualization
+Output of `show_color(...)` function, in `visualization.py`. The color can be changed, and the green box indicates that the prediction should be correct.
+<div align="center">
+<img src="assets/Blue_Color.png" width="500">
+</div>
